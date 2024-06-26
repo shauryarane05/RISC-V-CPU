@@ -1,4 +1,4 @@
-# RISC-V-Eklavya'23
+# ApexCore-Eklavya'24
 ---
 
 #### The RISC-V CPU will be implemented with IMAF instruction extensions, and also verified using custom verification methods.
@@ -66,19 +66,19 @@ Following is the block diagram and workflow in simple terms of our CPU:-
 ---
 ## Contributors
 
-- [Saish Karole](https://github.com/saishock1504)
-- [Atharva Kashalkar](https://github.com/RapidRoger18)
+- [Aditya Mahajan](https://github.com/aditya200523)
+- [Shri Vishakh Devanand](https://github.com/LOuLOu-THEKing)
+- [Shaurya Rane]
 
 --- 
 ## Mentors 
 
-- [Zain Siddavatam](https://github.com/SuperChamp234)
-- [Chanchal Bahrani](https://github.com/Chanchal1010)
+- [Saish Karole](https://github.com/saishock1504)
+- [Atharva Kashalkar](https://github.com/RapidRoger18)
 
 ---
 ### Acknowledgements and Resources
 
-- [SRA VJTI Eklavya 2023](https://sravjti.in/)
-- https://www.chipverify.com/verilog/verilog-tutorial
-- https://www.edx.org/course/building-a-risc-v-cpu-core
+- [SRA VJTI Eklavya 2024](https://sravjti.in/)
+  
 ---
