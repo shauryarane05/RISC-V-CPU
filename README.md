@@ -73,7 +73,7 @@ Following is the block diagram and workflow in simple terms of our CPU:-
 --- 
 ## Mentors 
 
-- [Saish Karole](https://github.com/saishock1504)
+- [Saish Karole](https://github.com/NachtSpyder04)
 - [Atharva Kashalkar](https://github.com/RapidRoger18)
 
 ---
