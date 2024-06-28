@@ -4,6 +4,8 @@
 *.o
 %.elf
 %.bin
+#ignore obsidian files
+.obsidian
 
 #verilog build files
 *.vcd

@@ -11,8 +11,12 @@
             "id": "be47c6193583eea4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "resources/daily_notes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily_notes.md",
+                "file": "resources/daily_notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily_notes.md",
+                "file": "resources/daily_notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily_notes.md"
+                "file": "resources/daily_notes.md"
               }
             }
           }
@@ -142,6 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf823edd00520f33",
-  "lastOpenFiles": []
+  "active": "be47c6193583eea4",
+  "lastOpenFiles": [
+    "daily_notes.md",
+    "resources/daily_notes.md",
+    "resources"
+  ]
 }
