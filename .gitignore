@@ -7,7 +7,8 @@
 
 #ignore obsidian folder
 .obsidian/
-.png
+*.png
+%.png
 
 #verilog build files
 *.vcd

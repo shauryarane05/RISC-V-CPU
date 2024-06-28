@@ -9,10 +9,10 @@
 #### Learning TL-Verilog in makerchip.com website
 
 1. TL-Verilog Syntax for each op:
-	1.  ![[Pasted image 20240628220510.png]]
-2. ![[Pasted image 20240628221928.png]]
-3. ![[Pasted image 20240628221949.png]]
-4. ![[Pasted image 20240628222136.png]]
+	1. ![[Pasted image 20240628230006.png]]
+2. ![[Pasted image 20240628230318.png]]
+3.  ![[Pasted image 20240628230347.png]]
+4.  ![[Pasted image 20240628230436.png]]
 5. Other vector operators are supported, including comparison operators like  ==, !=, >, >=, <, <=. We will only cover the operators needed for this course.
 
 #### NOTE:
@@ -22,7 +22,7 @@ $out[7:0] = $in1[6:0] + $in2[6:0];
 Values of vector signals are represented in the waveform viewer in hexadecimal. There are many online conversion tools, such as [[https://www.rapidtables.com/convert/number/hex-to-decimal.html]] if you need help finding a decimal or binary equivalent.
 
 
-6. ![[Pasted image 20240628223718.png]] 
+6. ![[Pasted image 20240628230510.png]] 
 ##### A simple 2:1 MUX implementation
 
 7. Verilog provides 6 syntaxes for coding a mux, but TL-verilog favors ternary operators.
@@ -31,7 +31,7 @@ Values of vector signals are represented in the waveform viewer in hexadecimal. 
 $out = $sel ? $in1 : $in0;
 ```
 
-An example that implements ternary operators chained to form a 8:1 MUX (here, ```$in0, $in1, $in2, $in3 ``` must be 8-bit vectors.)
+An example that implements ternary operators chained to form a 4:1 MUX (here, ```$in0, $in1, $in2, $in3 ``` must be 8-bit vectors.)
 
 
 ```bash
@@ -45,5 +45,5 @@ $out[7:0] =
         $in0;
 ```
 
-![[Pasted image 20240628224601.png]]
+![[Pasted image 20240628230611.png]]
 
